@@ -4407,7 +4407,7 @@
                 "symfony/security-core": "~4.2",
                 "symfony/security-csrf": "~4.2",
                 "symfony/security-guard": "~4.2",
-                "symfony/security-http": "~4.2"
+                "symfony/security-http": "~4.2.12"
             },
             "conflict": {
                 "symfony/browser-kit": "<4.2",
